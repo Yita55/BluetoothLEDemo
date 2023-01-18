@@ -19,3 +19,11 @@ Implement iOS app to demo Bluetooth Low Energy connect(interworking) to QCA402X 
 
 6.斷開連線
 
+
+宣告所需要的許可權
+
+在info.plist內新增
+
+“Privacy –Bluetooth Peripheral Usage Description”key
+
+“Privacy –Bluetooth Always Usage Description”key
